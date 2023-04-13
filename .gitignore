@@ -1,0 +1,6 @@
+**.pytest_cache/
+venv_home_test/
+**.DS_Store
+.idea/
+__pycache__/
+robots.db
